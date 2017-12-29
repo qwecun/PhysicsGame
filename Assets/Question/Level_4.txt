@@ -1,0 +1,8 @@
+Question 1: which object will hit the ground first if they are dropped from the same height in the earth (Ignore resistances)? 
+Same time
+Left(100kg)
+Right(1kg)
+Question 2: Why did those objects always fall downward? 
+Earth's Gravity
+Negative Velocity
+Reflection

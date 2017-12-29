@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 4837746e55689b247a06e12ff2eab113
+  - enabled: 1
+    path: Assets/Scenes/lvl1.unity
+    guid: 90f493b4be26a964d91a7bc834d0540c
+  - enabled: 1
+    path: Assets/Scenes/credit.unity
+    guid: e1ad425eafc396e499f67cbe0dc02be6
+  - enabled: 0
+    path: Assets/Scenes/MainScreen.unity
+    guid: 1da6fb379d83ab2459508c730a73e2c3
+  - enabled: 1
+    path: Assets/Scenes/lvl2.unity
+    guid: 89fe3799ff5775843ace2b33b642f119
+  - enabled: 1
+    path: Assets/Scenes/lvl3.unity
+    guid: 179cc7effacfce7448cf305cf8d4b982
+  - enabled: 1
+    path: Assets/Scenes/lvl4.unity
+    guid: 46988181e96a02d4f8e7deccb48b1127
+  - enabled: 1
+    path: Assets/Scenes/Subway.unity
+    guid: 2ae04a17720d21e40bf04a550a77fa9c

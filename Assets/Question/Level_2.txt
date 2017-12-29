@@ -1,0 +1,24 @@
+Question 1: What does " at rest" mean in reference to kinematics?
+Initial Velocity = 0
+Remain in motion
+Maintain its mass 
+The object is sleeping
+Mass is equal to zero
+Question 2: How can we make a car move when it is at rest? 
+Apply acceleration
+Adding oil
+Call AAA
+Getting a tow
+Call a friend
+Question 3: A car accelerates from rest to an acceleration of 20m/s^2 in 4 seconds.  Which formula should we use to solve the question
+D = Vi*t + at^2/2
+Vf = Vi + at
+Vf^2 = Vi^2 + 2as
+s = (Vi+ Vf)t/2
+v = d / t
+Question 4: A car acceleratees from rest to an acceleration of 20 m/s^2 in 4 seconds.  How far does the car travel?
+160m
+80m
+120m
+100m
+60m
